@@ -79,8 +79,8 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-1. Scrum Alliance-Certified Scrum Product Owner (CSPO)
-2. Scrum Alliance-Certified Scrum Master (CSM)
+1. Scrum Alliance Certified Scrum Product Owner (CSPO)
+2. Scrum Alliance Certified Scrum Master (CSM)
 3. ICAgile Certified Professional - Agile Coaching (ICP-ACC)
 
 ##### Achievements
