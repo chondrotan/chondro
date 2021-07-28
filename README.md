@@ -3,7 +3,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: chondrotan@gmail.com 
+✉️: chondro.tandian@gmail.com 
 &nbsp;&nbsp; 📲 +65-86681999
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/chondro-tandian-51197016/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]
