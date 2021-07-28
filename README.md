@@ -79,7 +79,9 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+1. Scrum Alliance’s Certified Scrum Product Owner (CSPO)
+2. Scrum Alliance’s Certified Scrum Master (CSM)
+3. ICAgile Certified Professional - Agile Coaching (ICP-ACC)
 
 ##### Achievements
 Star performer of the year at Accenture
