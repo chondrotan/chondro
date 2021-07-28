@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/chondrotan/chondro/blob/bd5d375f46b86ff05016b1528fb32b8cb1bffae2/images/5a747e5bc51d9.image.jpg)
+![alt text](https://raw.githubusercontent.com/chondrotan/chondro/main/images/5a747e5bc51d9.image.jpg)
 
 <!-- Add your details -->
 
